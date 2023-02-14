@@ -4,6 +4,38 @@
   
   
   <entry>
+    <title>111</title>
+    <link href="/2023/02/14/111/"/>
+    <url>/2023/02/14/111/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>ROS--Mobile Robot(2)</title>
+    <link href="/2023/01/05/ROS-Mobile-Robot-2/"/>
+    <url>/2023/01/05/ROS-Mobile-Robot-2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Modeling-using-URDF-and-Xacro"><a href="#Modeling-using-URDF-and-Xacro" class="headerlink" title="Modeling using URDF and Xacro"></a>Modeling using URDF and Xacro</h1><p>The first thing of simulation in ROS is creating a robot model.<br>The Unified Robot Description Format (URDF) is the paramount format using XML to represent the robot model.<br>And the Xacro (XML Macros) is based on URDF, and it improves some functions, such as set property, macro definition, and so on.</p><p>This article shows how to create a basic robot model and summarizes some knowledge about URDF and Xaxro.</p><ul><li><p>Robot Base Body</p></li><li><p>Robot Wheels</p></li><li><p>Robot Caster</p></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>ROS</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>ROS--Mobile Robot(1)</title>
     <link href="/2023/01/05/ROS-Mobile-Robot-1/"/>
     <url>/2023/01/05/ROS-Mobile-Robot-1/</url>
